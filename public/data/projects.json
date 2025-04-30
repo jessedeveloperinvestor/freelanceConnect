@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Desenvolvimento de site de e-commerce",
+    "description": "Preciso de um desenvolvedor para criar uma loja online completa com carrinho de compras e integração com gateway de pagamento. O site deve ser responsivo e ter painel administrativo.",
+    "clientId": 3,
+    "budget": 3000,
+    "deadline": "2025-05-30T23:59:59Z",
+    "category": "Desenvolvimento Web",
+    "skills": ["React", "Node.js", "MongoDB", "Stripe", "Responsive Design"],
+    "status": "open",
+    "createdAt": "2025-04-05T14:30:00Z",
+    "updatedAt": "2025-04-05T14:30:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Design de logotipo para empresa de tecnologia",
+    "description": "Busco designer para criar um logotipo profissional para minha nova empresa de tecnologia. Preciso de 3 propostas iniciais e refinamentos até chegarmos à versão final.",
+    "clientId": 3,
+    "budget": 500,
+    "deadline": "2025-05-15T23:59:59Z",
+    "category": "Design Gráfico",
+    "skills": ["Illustrator", "Branding", "Logo Design"],
+    "status": "open",
+    "createdAt": "2025-04-06T10:15:00Z",
+    "updatedAt": "2025-04-06T10:15:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Desenvolvimento de aplicativo móvel",
+    "description": "Preciso de um aplicativo para iOS e Android para minha empresa de delivery. O app deve permitir que os usuários façam pedidos, rastreiem entregas e façam pagamentos.",
+    "clientId": 3,
+    "budget": 5000,
+    "deadline": "2025-07-01T23:59:59Z",
+    "category": "Desenvolvimento Mobile",
+    "skills": ["React Native", "Firebase", "API Rest", "Stripe"],
+    "status": "open",
+    "createdAt": "2025-04-07T09:45:00Z",
+    "updatedAt": "2025-04-07T09:45:00Z"
+  }
+]

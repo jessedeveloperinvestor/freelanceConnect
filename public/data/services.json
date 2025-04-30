@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Desenvolvimento de Sites e Aplicações Web",
+    "description": "Desenvolvo sites responsivos e aplicações web usando as tecnologias mais modernas como React, Node.js e Next.js. Ofereço soluções completas com foco na experiência do usuário e performance.",
+    "providerId": 1,
+    "price": 1500,
+    "deliveryTime": 14,
+    "category": "Desenvolvimento Web",
+    "skills": ["React", "Node.js", "JavaScript", "HTML", "CSS", "Next.js"],
+    "rating": 4.8,
+    "reviewCount": 12,
+    "createdAt": "2025-04-03T11:00:00Z",
+    "updatedAt": "2025-04-03T11:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Design de Identidade Visual Completa",
+    "description": "Criação de identidade visual completa para sua empresa, incluindo logo, paleta de cores, tipografia e aplicações em diversos materiais. Entregas em formatos otimizados para web e impressão.",
+    "providerId": 2,
+    "price": 1200,
+    "deliveryTime": 10,
+    "category": "Design Gráfico",
+    "skills": ["Adobe Illustrator", "Adobe Photoshop", "Branding", "Logo Design"],
+    "rating": 4.9,
+    "reviewCount": 18,
+    "createdAt": "2025-04-04T09:30:00Z",
+    "updatedAt": "2025-04-04T09:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Desenvolvimento de Apps Mobile",
+    "description": "Desenvolvimento de aplicativos mobile para iOS e Android usando React Native. Aplicativos de alta performance com UI/UX moderno e código limpo e sustentável.",
+    "providerId": 1,
+    "price": 2500,
+    "deliveryTime": 30,
+    "category": "Desenvolvimento Mobile",
+    "skills": ["React Native", "JavaScript", "Firebase", "API Integration"],
+    "rating": 4.7,
+    "reviewCount": 8,
+    "createdAt": "2025-04-05T14:00:00Z",
+    "updatedAt": "2025-04-05T14:00:00Z"
+  }
+]

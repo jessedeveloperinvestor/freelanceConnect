@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "conversationId": "conv_1_3",
+    "senderId": 1,
+    "receiverId": 3,
+    "content": "Olá, vi seu projeto de desenvolvimento de site e-commerce. Tenho experiência nesse tipo de projeto e gostaria de saber mais detalhes.",
+    "timestamp": "2025-04-08T10:15:00Z",
+    "read": true
+  },
+  {
+    "id": 2,
+    "conversationId": "conv_1_3",
+    "senderId": 3,
+    "receiverId": 1,
+    "content": "Olá Maria! Obrigada pelo interesse. O projeto envolve criar uma loja online completa para venda de produtos eletrônicos. Preciso de um sistema de carrinho, pagamentos com Stripe e painel administrativo.",
+    "timestamp": "2025-04-08T10:30:00Z",
+    "read": true
+  },
+  {
+    "id": 3,
+    "conversationId": "conv_1_3",
+    "senderId": 1,
+    "receiverId": 3,
+    "content": "Entendi. Tenho bastante experiência com Stripe e sistemas de e-commerce. Qual é o prazo que você tem em mente para o projeto?",
+    "timestamp": "2025-04-08T10:45:00Z",
+    "read": true
+  },
+  {
+    "id": 4,
+    "conversationId": "conv_1_3",
+    "senderId": 3,
+    "receiverId": 1,
+    "content": "Precisaria que estivesse pronto até o final de maio. É viável para você?",
+    "timestamp": "2025-04-08T11:00:00Z",
+    "read": false
+  },
+  {
+    "id": 5,
+    "conversationId": "conv_2_3",
+    "senderId": 2,
+    "receiverId": 3,
+    "content": "Boa tarde, Ana. Vi seu projeto de design de logotipo e gostaria de apresentar minha proposta. Tenho especialização em identidade visual para empresas de tecnologia.",
+    "timestamp": "2025-04-09T14:00:00Z",
+    "read": true
+  },
+  {
+    "id": 6,
+    "conversationId": "conv_2_3",
+    "senderId": 3,
+    "receiverId": 2,
+    "content": "Olá João! Obrigada pelo contato. Estou procurando um logo moderno e minimalista que transmita inovação. Poderia me mostrar alguns exemplos do seu trabalho?",
+    "timestamp": "2025-04-09T14:30:00Z",
+    "read": false
+  }
+]

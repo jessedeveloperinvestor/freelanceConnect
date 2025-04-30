@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "username": "maria.silva",
+    "email": "maria.silva@example.com",
+    "password": "$2a$10$X7PVl1TnAQDxfJL7.6nwROGvRlb8l3/K9pQQgMwyX/ZLm8Kfj3ZP2",
+    "name": "Maria Silva",
+    "role": "professional",
+    "createdAt": "2025-04-01T10:00:00Z",
+    "bio": "Desenvolvedora web com 5 anos de experiência em React e Node.js",
+    "skills": [
+      "React",
+      "Node.js",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "paypalEmail": "maria.silva@example.com"
+  },
+  {
+    "id": 2,
+    "username": "joao.santos",
+    "email": "joao.santos@example.com",
+    "password": "$2a$10$X7PVl1TnAQDxfJL7.6nwROGvRlb8l3/K9pQQgMwyX/ZLm8Kfj3ZP2",
+    "name": "João Santos",
+    "role": "professional",
+    "createdAt": "2025-04-02T14:30:00Z",
+    "bio": "Designer gráfico especializado em identidade visual e UX/UI",
+    "skills": [
+      "Photoshop",
+      "Illustrator",
+      "Figma",
+      "UI/UX",
+      "Branding"
+    ],
+    "paypalEmail": "joao.santos@example.com"
+  },
+  {
+    "id": 3,
+    "username": "ana.oliveira",
+    "email": "ana.oliveira@example.com",
+    "password": "$2a$10$X7PVl1TnAQDxfJL7.6nwROGvRlb8l3/K9pQQgMwyX/ZLm8Kfj3ZP2",
+    "name": "Ana Oliveira",
+    "role": "client",
+    "createdAt": "2025-04-03T09:15:00Z",
+    "bio": "Empresária buscando profissionais para desenvolver projetos digitais",
+    "companyName": "Tech Inovações Ltda",
+    "paypalEmail": "ana.oliveira@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Jessé Alves Leite",
+    "username": "Jesse",
+    "email": "jesseprofitableinvestor@gmail.com",
+    "password": "$2b$10$3bxT3h0pDKptwzoCGkMyuOndP5dPPblt5Y/CVac.dOawp6/fHy.1a",
+    "role": "professional",
+    "createdAt": "2025-04-30T17:19:35.215Z"
+  }
+]
